@@ -24,8 +24,9 @@ The lab includes:
 ---
 
 ## 👤 Author
--**Name:** ِAlhasan Bani
+-**Name:** ِ Alhasan Bani
 -**Enrollment Number:** 22202041017 
+
 -**Course:** Special Topics in Information Security  
 -**University:** Seiyun University  
 -**Instructor:** Dr. Ahmed Abuamer  
